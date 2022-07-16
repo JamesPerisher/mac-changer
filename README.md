@@ -8,6 +8,7 @@ Utility to change mac address easily on linux using cli
 git clone https://github.com/JamesPerisher/mac-changer.git
 cd mac-changer
 chmod +x changemac.py
+
 or
 
 wget https://raw.githubusercontent.com/JamesPerisher/mac-changer/main/changemac.py
